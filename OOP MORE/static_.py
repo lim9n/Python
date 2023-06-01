@@ -26,4 +26,4 @@ mizan=Shopping("basundhara", "BTC")
 
 print(mizan.Purchase("lungi", 400, 100))
 
-print(Shopping.mul(3,4)) 
+print(Shopping.mul(3,4))

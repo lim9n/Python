@@ -21,4 +21,4 @@ class Monkey(Animal):
         print('Hanging on the branches')
 
 layka = Monkey('lucky')
-layka.eat()
+layka.move() 

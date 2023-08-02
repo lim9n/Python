@@ -3,6 +3,8 @@ a=list(map(int, input().split()))
 
 freq={}
 
+
+
 for i in a:
       if i in freq:
             freq[i]+=1
